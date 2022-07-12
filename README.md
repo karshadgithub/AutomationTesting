@@ -16,6 +16,7 @@ Include all tests related document in same github repository.
 Scenario 1: [Check your gift card's balance is $0.00]
 
 Starts on the [Amazon](https://www.amazon.com/)
+
 Click on 'Start here' from Account and Lists
 Create Account and login
 Click on Your account
