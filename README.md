@@ -1,9 +1,9 @@
 # Coding task for QA Automation Engineer
-#The Goal
+# The Goal
 
 Your task is to write automated tests preferably with Selenium, Cypress or RPA to demonstrate your test automation abilities.
 
-#The Process
+# The Process
 
 Start a new private github repository with detailed "readme" document on how to execute the tests.
 Write end-to-end tests fulfilling the Acceptance Criteria below.
@@ -11,11 +11,11 @@ Publish test execution report in html format.
 Prepare a test summary report and include the information about platform, browser, tools etc
 Include all tests related document in same github repository.
 
-#Acceptance Criteria
+# Acceptance Criteria
 
 Scenario 1: [Check your gift card's balance is $0.00]
 
-Starts on the Amazon
+Starts on the [Amazon](https://www.amazon.com/)
 Click on 'Start here' from Account and Lists
 Create Account and login
 Click on Your account
@@ -45,11 +45,11 @@ Surprise us…
 How we're evaluating the result
 Prioritized from most important to least important, here are our evaluation criteria:
 
-#Acceptance Criteria: Have all acceptance criteria been fulfilled correctly?
+# Acceptance Criteria: Have all acceptance criteria been fulfilled correctly?
 
 Code Quality: Is the code that you've written clean, well-structured and easy to understand?
 Documentation: Did you document how to run your tests well? Is your written communication clear and easy-to-understand?
 The extra mile: Everything you did on top of the acceptance criteria.
 
-#How to submit your work
+# How to submit your work
 Create a public repo on Github and push your code on it. then share the link back with the team.
