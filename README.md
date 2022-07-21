@@ -13,22 +13,24 @@ Include all tests related document in same github repository.
 
 # Acceptance Criteria
 
-Scenario 1: [Check your gift card's balance is $0.00]
+Scenario 1: [ Change your profile name]
 
 Starts on the [Amazon](https://www.amazon.com/)
 
 Click on 'Start here' from Account and Lists
 Create Account and login
 Click on Your account
-Click on Gift Cards
-Check the balance of your gift card is $0.00
+Click on Your Profiles
+Click on arrow button to change name
+Click on edit option, give new name and save the changes
 
-Scenario 2: [Check the total displayed number of results for category Smart Home | Televisions]
+Scenario 2: [Check the total displayed number of results for category Smart Home | New Smart Devices]
 
 Go to Categories list
 Choose category 'Smart Home'
-Chhose sub-category 'Televisions'
+Chhose sub-category 'New Smart Devices'
 Check the total number of results match the total displayed products
+Write the name of all devices shown in first page in excel.
 
 Scenario 3: [Check the selected currency displayed for the products' price]
 
@@ -36,12 +38,15 @@ Go to Currency Settings
 Change currency to 'AED'
 Save changes
 Check the selected currency displayed for the products' price
-Bonus Round (not required, but nice-to-have)
-Usage of code quality tools such as eslint, prettier, typescript
-Integration of your tests into a CI pipeline
+Search for Iphone.
+Select 2nd from the list
+Click on Add to cart
+Check the Cart Subtotal.
+
+
 Manual test cases for given scenarios
 Brief Performance report on home page using Jmeter or any similar tool
-Security and Vulnerability assessment
+
 Surprise us…
 How we're evaluating the result
 Prioritized from most important to least important, here are our evaluation criteria:
