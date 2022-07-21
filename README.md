@@ -20,29 +20,45 @@ Starts on the [Amazon](https://www.amazon.com/)
 1.Click on 'Start here' from Account and Lists
 
 2.Create Account and login
+
 3.Click on Your account
+
 4.Click on Your Profiles
+
 5.Click on arrow button to change name
+
 6.Click on edit option, give new name and save the changes
 
 Scenario 2: [Check the total displayed number of results for category Smart Home | New Smart Devices]
 
-Go to Categories list
-Choose category 'Smart Home'
-Chhose sub-category 'New Smart Devices'
-Check the total number of results match the total displayed products
-Write the name of all devices shown in first page in excel.
+1.Go to Categories list
+
+2.Choose category 'Smart Home'
+
+3.Choose sub-category 'New Smart Devices'
+
+4.Check the total number of results match the total displayed products
+
+5.Write the name of all devices shown in first page in excel.
+
 
 Scenario 3: [Check the selected currency displayed for the products' price]
 
-Go to Currency Settings
-Change currency to 'AED'
-Save changes
-Check the selected currency displayed for the products' price
-Search for Iphone.
-Select 2nd from the list
-Click on Add to cart
-Check the Cart Subtotal.
+1.Go to Currency Settings
+
+2.Change currency to 'AED'
+
+3.Save changes
+
+4.Check the selected currency displayed for the products' price.
+
+5.Search for Iphone.
+
+6.Select 2nd from the list
+
+7.Click on Add to cart
+
+8.Check the Cart Subtotal.
 
 
 Manual test cases for given scenarios
