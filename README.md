@@ -17,12 +17,12 @@ Scenario 1: [ Change your profile name]
 
 Starts on the [Amazon](https://www.amazon.com/)
 
-Click on 'Start here' from Account and Lists
-Create Account and login
-Click on Your account
-Click on Your Profiles
-Click on arrow button to change name
-Click on edit option, give new name and save the changes
+1.Click on 'Start here' from Account and Lists
+2.Create Account and login
+3.Click on Your account
+4.Click on Your Profiles
+5.Click on arrow button to change name
+6.Click on edit option, give new name and save the changes
 
 Scenario 2: [Check the total displayed number of results for category Smart Home | New Smart Devices]
 
